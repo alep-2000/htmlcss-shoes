@@ -16,6 +16,10 @@ header{
     z-index: 100;
 }
 
+main{
+    height:100vh;
+}
+
 .col-main{
     width: 600px;
     position: absolute;
@@ -43,7 +47,7 @@ header{
     margin: 25px 10px;
 }
 
-a{
+.number{
     border-radius: 50%;
     background-color: white;
     color: black;

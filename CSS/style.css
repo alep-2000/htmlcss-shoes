@@ -8,6 +8,17 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
+main{
+    height:100vh;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+}
 
 .col-main{
     width: 600px;
@@ -36,7 +47,7 @@ body{
     margin: 25px 10px;
 }
 
-a{
+p{
     border-radius: 50%;
     background-color: white;
     color: black;
