@@ -47,7 +47,7 @@ header{
     margin: 25px 10px;
 }
 
-p{
+a{
     border-radius: 50%;
     background-color: white;
     color: black;
@@ -59,21 +59,21 @@ p{
 /* END HEADER */
 /* MAIN */
 
-.content-main-red{
+#content-main-red{
     width: 100%;
     height: 100vh;
     background-color: red;
     position: relative;
 }
 
-.content-main-green{
+#content-main-green{
     width: 100%;
     height: 100vh;
     background-color: green;
     position: relative;
 }
 
-.content-main-yellow{
+#content-main-yellow{
     width: 100%;
     height: 100vh;
     background-color: yellow;
